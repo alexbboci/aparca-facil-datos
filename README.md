@@ -29,3 +29,6 @@ Alcobendas: 151 ubicaciones generales (197 plazas), revisión documental 14/10/2
 
 ## Ampliación de Galicia — 14/10/2026
 14 ubicaciones adicionales: 10 en Lugo y 4 en Vigo. Fuente: OpenStreetMap, extracto de Galicia descargado el 13/10/2026 (https://download.geofabrik.de/europe/spain/galicia.html), ODbL 1.0. Revisión de horarios sin restricciones (24/7), acceso y posibles duplicados. Se conservan fechas originales y capacidades desconocidas como null. Sin comprobación presencial. Galicia suma 1.749 ubicaciones; cobertura parcial.
+
+## Reservas completas PMR — 14/10/2026
+8 ubicaciones adicionales de OpenStreetMap en Arteixo, Boiro, Santiago de Compostela, Ribadeo, Vilaboa y Cangas. 24 plazas de capacidad declarada entre siete ubicaciones; una octava sin capacidad conocida. Coordenadas del punto o interior de pequeñas áreas reservadas íntegramente para PMR, no del centro de un aparcamiento general. Se contrastaron límites municipales, accesos, tamaño y duplicados con el catálogo. ODbL 1.0; extracto de Geofabrik de Galicia descargado el 13/10/2026. No comprobadas presencialmente. Total Galicia tras esta actualización: 1.757 ubicaciones.

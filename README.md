@@ -26,3 +26,6 @@ Alcobendas: 151 ubicaciones generales (197 plazas), revisión documental 14/10/2
 
 ## Ampliación regional — 14/10/2026
 365 ubicaciones nuevas de OpenStreetMap en 19 municipios de los alrededores de Madrid y 305 en 35 municipios de la provincia de Barcelona (13 en la capital). Extractos Geofabrik del 13/10/2026: https://download.geofabrik.de/europe/spain/madrid.html y https://download.geofabrik.de/europe/spain/cataluna.html . ODbL 1.0, © colaboradores de OpenStreetMap. Se seleccionan plazas explícitamente mapeadas, con coordenadas del punto o un punto interior de su polígono; nombres de calles cercanas orientativos. Se excluyen accesos restringidos, aparcamientos interiores identificados y condiciones dudosas. La ausencia de restricciones en los datos no garantiza el acceso. Sin comprobación presencial.
+
+## Ampliación de Galicia — 14/10/2026
+14 ubicaciones adicionales: 10 en Lugo y 4 en Vigo. Fuente: OpenStreetMap, extracto de Galicia descargado el 13/10/2026 (https://download.geofabrik.de/europe/spain/galicia.html), ODbL 1.0. Revisión de horarios sin restricciones (24/7), acceso y posibles duplicados. Se conservan fechas originales y capacidades desconocidas como null. Sin comprobación presencial. Galicia suma 1.749 ubicaciones; cobertura parcial.

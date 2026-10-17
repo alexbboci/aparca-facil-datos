@@ -162,3 +162,8 @@ Dos reservas completas PMR adicionales, una plaza declarada en cada ubicación. 
 - castilla-la-mancha: 7 ubicaciones, 23 plazas declaradas. https://download.geofabrik.de/europe/spain/castilla-la-mancha.html — extracto 2026-10-16T20:21:21Z.
 - canary-islands: 21 ubicaciones, 80 plazas declaradas. https://download.geofabrik.de/africa/canary-islands.html — extracto 2026-10-16T20:21:21Z.
 - cataluna: 22 ubicaciones, 44 plazas declaradas. https://download.geofabrik.de/europe/spain/cataluna.html — extracto 2026-10-13T20:21:31Z.
+
+
+## Reservas completas en la Comunidad de Madrid — 17/10/2026
+
+12 ubicaciones adicionales con 15 plazas declaradas: Valdemoro (7), Collado Villalba (3), Loeches (1) y Majadahonda (1). Fuente: https://download.geofabrik.de/europe/spain/madrid.html — extracto 2026-10-13T20:21:31Z. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Reservas completas PMR de tamaño limitado; posición cartografiada o interior de geometría contrastada. Se excluyen Madrid y Alcobendas para conservar la selección de sus inventarios oficiales. Control de municipio, acceso, capacidad y duplicados. Sin comprobación presencial; consulta la señalización.

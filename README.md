@@ -136,3 +136,16 @@ Alcobendas: 151 ubicaciones generales (197 plazas), revisión documental 14/10/2
 - murcia: https://download.geofabrik.de/europe/spain/murcia.html — extracto 2026-10-16T20:21:21Z.
 
 - islas-baleares: https://download.geofabrik.de/europe/spain/islas-baleares.html — extracto 2026-10-16T20:21:21Z.
+
+
+## Girona — 17/10/2026
+
+314 ubicaciones adicionales con 436 plazas declaradas. Fuente: Ajuntament de Girona / UMAT, https://umat.girona.cat/apps/api/descarrega/items/184/ . Datos de dominio público y reutilización gratuita según https://umat.girona.cat/legal.html . De 1.049 áreas de estacionamiento del servicio se seleccionan las 322 clasificadas como Mobilitat reduïda; descarga completa e identificadores contrastados. Se incorporan polígonos de titularidad pública, gratuitos, en superficie, de geometría válida y tamaño compatible con la capacidad declarada. Se excluyen cuatro casos de pago o coste desconocido, dos coincidencias con el catálogo, un duplicado próximo y una geometría pendiente. Marcador interior del polígono reservado transformado de EPSG:25831 a WGS84, no posición de cada plaza individual. Fecha de actualización individual no publicada; consulta documental el 17/10/2026, sin comprobación presencial ni respaldo institucional implícito. Consulta la señalización.
+
+## Jaca y Urduliz — 17/10/2026
+
+Dos reservas completas PMR adicionales, una plaza declarada en cada ubicación. Fuente: OpenStreetMap, © colaboradores, ODbL 1.0 https://www.openstreetmap.org/copyright . Pequeños polígonos válidos con marcador interior; control de acceso, condiciones, límites municipales y duplicados. Sin comprobación presencial.
+
+- pais-vasco: https://download.geofabrik.de/europe/spain/pais-vasco.html — extracto 2026-10-16T20:21:21Z.
+
+- aragon: https://download.geofabrik.de/europe/spain/aragon.html — extracto 2026-10-16T20:21:21Z.

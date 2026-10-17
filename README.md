@@ -149,3 +149,16 @@ Dos reservas completas PMR adicionales, una plaza declarada en cada ubicación. 
 - pais-vasco: https://download.geofabrik.de/europe/spain/pais-vasco.html — extracto 2026-10-16T20:21:21Z.
 
 - aragon: https://download.geofabrik.de/europe/spain/aragon.html — extracto 2026-10-16T20:21:21Z.
+
+
+## Ampliación de reservas completas PMR — 17/10/2026
+
+219 ubicaciones adicionales, con 493 plazas declaradas. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Se seleccionan puntos y pequeñas áreas reservadas íntegramente para PMR; no centros de aparcamientos generales. Se revisan restricciones, duplicados, capacidad y límites municipales. Los polígonos se contrastan con la geometría original, con marcador interior y tamaño máximo de 250 m². Municipio por límites administrativos y calle cercana orientativa. Sin comprobación presencial ni garantía de disponibilidad; cobertura parcial.
+
+- valencia: 7 ubicaciones, 21 plazas declaradas. https://download.geofabrik.de/europe/spain/valencia.html — extracto 2026-10-16T20:21:21Z.
+- extremadura: 1 ubicaciones, 3 plazas declaradas. https://download.geofabrik.de/europe/spain/extremadura.html — extracto 2026-10-16T20:21:21Z.
+- castilla-y-leon: 20 ubicaciones, 62 plazas declaradas. https://download.geofabrik.de/europe/spain/castilla-y-leon.html — extracto 2026-10-16T20:21:21Z.
+- andalucia: 141 ubicaciones, 260 plazas declaradas. https://download.geofabrik.de/europe/spain/andalucia.html — extracto 2026-10-16T20:21:21Z.
+- castilla-la-mancha: 7 ubicaciones, 23 plazas declaradas. https://download.geofabrik.de/europe/spain/castilla-la-mancha.html — extracto 2026-10-16T20:21:21Z.
+- canary-islands: 21 ubicaciones, 80 plazas declaradas. https://download.geofabrik.de/africa/canary-islands.html — extracto 2026-10-16T20:21:21Z.
+- cataluna: 22 ubicaciones, 44 plazas declaradas. https://download.geofabrik.de/europe/spain/cataluna.html — extracto 2026-10-13T20:21:31Z.

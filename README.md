@@ -100,3 +100,18 @@ Alcobendas: 151 ubicaciones generales (197 plazas), revisión documental 14/10/2
 ## Sevilla — 17/10/2026
 
 444 ubicaciones y 465 plazas declaradas. Fuente: Ayuntamiento de Sevilla, Gerencia de Urbanismo, mapa oficial https://www.urbanismosevilla.org/areas/sostenibilidad-innovacion/oficina-de-accesibilidad/plazas-aparcamiento-reservado-pmr . La política municipal de datos espaciales abiertos permite su reutilización: https://www.urbanismosevilla.org/areas/sostenibilidad-innovacion/ide/portal-de-datos-abiertos . Descarga paginada completa de 2.445 registros, contrastada con el contador del servicio e identificadores únicos. Última edición de la capa: 21/04/2023. Selección de viario público sin baja indicada y con evaluación favorable del espacio de transferencia en el inventario. Se excluyen 46 bajas, 388 registros fuera del viario público o con situación desconocida y 1.567 con deficiencias de transferencia o sin evaluación conocida. Adaptación de dirección, punto y capacidad. Evaluación histórica municipal; no es verificación propia ni garantía del estado actual. Sin comprobación presencial; cobertura parcial.
+
+
+## Canarias — ampliación OSM del 17/10/2026
+
+238 ubicaciones adicionales en 43 municipios, con 128 plazas de capacidad conocida y 127 ubicaciones sin capacidad especificada. Fuente: https://download.geofabrik.de/africa/canary-islands.html . Fecha del extracto: 2026-10-16T20:21:21Z. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Contraste con el catálogo previo para evitar duplicados; control de accesos, condiciones y geometrías. Posición cartografiada o interior del polígono reservado; calle cercana orientativa. Sin comprobación presencial, cobertura parcial.
+
+
+## Castilla-La Mancha — ampliación OSM del 17/10/2026
+
+62 ubicaciones adicionales en 19 municipios, con 86 plazas de capacidad conocida y 24 ubicaciones sin capacidad especificada. Fuente: https://download.geofabrik.de/europe/spain/castilla-la-mancha.html . Fecha del extracto: 2026-10-16T20:21:21Z. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Contraste con el catálogo previo para evitar duplicados; control de accesos, condiciones y geometrías. Posición cartografiada o interior del polígono reservado; calle cercana orientativa. Sin comprobación presencial, cobertura parcial.
+
+
+## Cataluña — ampliación OSM del 17/10/2026
+
+288 ubicaciones adicionales en 30 municipios, con 123 plazas de capacidad conocida y 172 ubicaciones sin capacidad especificada. Fuente: https://download.geofabrik.de/europe/spain/cataluna.html . Fecha del extracto: 2026-10-13T20:21:31Z. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Contraste con el catálogo previo para evitar duplicados; control de accesos, condiciones y geometrías. Posición cartografiada o interior del polígono reservado; calle cercana orientativa. Sin comprobación presencial, cobertura parcial.

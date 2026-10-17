@@ -36,3 +36,13 @@ Alcobendas: 151 ubicaciones generales (197 plazas), revisión documental 14/10/2
 ## València — 17/10/2026
 
 2.566 ubicaciones con 2.779 plazas declaradas. Fuente: Ayuntamiento de València, Geoportal, capa «Aparcamientos personas movilidad reducida». Licencia CC BY 4.0: https://creativecommons.org/licenses/by/4.0/deed.es . Catálogo: https://datos.gob.es/es/catalogo/l01462508-aparcamientos-personas-movilidad-reducida . Descarga completa comprobada frente a los identificadores del servicio municipal el 17/10/2026. Adaptaciones: selección de identificador, coordenadas y capacidad, normalización al esquema de la aplicación y nombres descriptivos generados. No incluye ocupación en tiempo real. Sin verificación presencial; consulta la señalización. La fecha de consulta no implica que todas las plazas hayan sido comprobadas ese día. No se garantiza cobertura exhaustiva ni ausencia de restricciones no descritas por la fuente.
+
+
+## Zaragoza — 17/10/2026
+
+1.135 ubicaciones con 1.270 plazas declaradas. Origen de los datos: Ayuntamiento de Zaragoza, https://www.zaragoza.es/web/espacio-de-datos/servicio/catalogo/307 . Reutilización según https://www.zaragoza.es/sede/portal/aviso-legal . Última actualización indicada en el catálogo: 29/04/2022; fecha de actualización de la ficha: 24/09/2026. API consultada el 17/10/2026: 1.236 registros descargados, con paginación completa e identificadores únicos. Selección de reservas PMR generales permanentes; 101 registros excluidos por categoría, horario limitado o dudoso o capacidad inválida. Adaptaciones: selección conservadora, normalización de direcciones y transformación al esquema de la app. Sin comprobación presencial; consulta la señalización. Proyecto independiente, sin patrocinio del Ayuntamiento.
+
+
+## Donostia / San Sebastián — 17/10/2026
+
+829 ubicaciones generales. Fuente: Ayuntamiento de Donostia / San Sebastián, Aparcamientos de movilidad reducida, https://donostia.eus/datosabiertos/catalogo/aparcamiento-movreducida . Catálogo modificado el 15/05/2026, consultado el 17/10/2026. Datos y adaptación de los registros con prefijo `donostia-official/` bajo CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Se conservan como subconjunto identificable con su propia licencia. Adaptaciones: selección GENERAL, nombres y coordenadas al esquema de la app; capacidad desconocida, sin deducirla de la longitud. Se excluyen 78 reservas por matrícula. Completitud contrastada entre descarga municipal y capa oficial de GeoDonostia. Sin comprobación presencial ni información de ocupación; consulta la señalización.

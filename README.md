@@ -32,3 +32,7 @@ Alcobendas: 151 ubicaciones generales (197 plazas), revisión documental 14/10/2
 
 ## Reservas completas PMR — 14/10/2026
 8 ubicaciones adicionales de OpenStreetMap en Arteixo, Boiro, Santiago de Compostela, Ribadeo, Vilaboa y Cangas. 24 plazas de capacidad declarada entre siete ubicaciones; una octava sin capacidad conocida. Coordenadas del punto o interior de pequeñas áreas reservadas íntegramente para PMR, no del centro de un aparcamiento general. Se contrastaron límites municipales, accesos, tamaño y duplicados con el catálogo. ODbL 1.0; extracto de Geofabrik de Galicia descargado el 13/10/2026. No comprobadas presencialmente. Total Galicia tras esta actualización: 1.757 ubicaciones.
+
+## València — 17/10/2026
+
+2.566 ubicaciones con 2.779 plazas declaradas. Fuente: Ayuntamiento de València, Geoportal, capa «Aparcamientos personas movilidad reducida». Licencia CC BY 4.0: https://creativecommons.org/licenses/by/4.0/deed.es . Catálogo: https://datos.gob.es/es/catalogo/l01462508-aparcamientos-personas-movilidad-reducida . Descarga completa comprobada frente a los identificadores del servicio municipal el 17/10/2026. Adaptaciones: selección de identificador, coordenadas y capacidad, normalización al esquema de la aplicación y nombres descriptivos generados. No incluye ocupación en tiempo real. Sin verificación presencial; consulta la señalización. La fecha de consulta no implica que todas las plazas hayan sido comprobadas ese día. No se garantiza cobertura exhaustiva ni ausencia de restricciones no descritas por la fuente.

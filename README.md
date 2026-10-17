@@ -56,3 +56,13 @@ Alcobendas: 151 ubicaciones generales (197 plazas), revisión documental 14/10/2
 ## Asturias y Cantabria — 17/10/2026
 
 261 ubicaciones explícitas de OpenStreetMap: 115 en 12 municipios de Asturias y 146 en 11 municipios de Cantabria. Se recorrieron los límites de los 78 y 102 municipios respectivos; ausencia de puntos no implica ausencia de plazas. Extractos de Geofabrik: https://download.geofabrik.de/europe/spain/asturias.html y https://download.geofabrik.de/europe/spain/cantabria.html . © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Se conserva la fecha de edición de cada punto, no equivalente a una visita. Adaptaciones: punto cartografiado o interior del polígono reservado PMR, municipio por límites administrativos y calle cercana orientativa. Se excluyen accesos restringidos, aparcamientos interiores, horarios o pagos dudosos y posibles duplicados. 154 plazas de capacidad conocida; 117 ubicaciones sin capacidad publicada. Sin comprobación presencial.
+
+
+## Navarra y La Rioja — 17/10/2026
+
+523 ubicaciones explícitas de OpenStreetMap: 417 en 23 municipios de Navarra y 106 en 12 municipios de La Rioja. Extractos de Geofabrik con datos hasta el 16/10/2026: https://download.geofabrik.de/europe/spain/navarra.html y https://download.geofabrik.de/europe/spain/la-rioja.html . © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . 461 plazas de capacidad conocida y 190 ubicaciones de capacidad desconocida. Se revisaron accesos, condiciones, duplicados, geometría y posición interior de los marcadores de polígonos. Se dejaron fuera dos áreas de Logroño de más de 250 m² para comprobar la posición de las plazas individuales. Municipio por límites administrativos; calle cercana orientativa. Sin comprobación presencial; cobertura parcial.
+
+
+## Murcia y Baleares — 17/10/2026
+
+274 ubicaciones explícitas de OpenStreetMap: 23 en 7 municipios de Murcia y 251 en 21 municipios de Illes Balears. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Extractos de Geofabrik: https://download.geofabrik.de/europe/spain/murcia.html y https://download.geofabrik.de/europe/spain/islas-baleares.html . 118 plazas de capacidad conocida, 186 ubicaciones de capacidad desconocida. Adaptaciones: selección de puntos o polígonos reservados PMR, municipio por límites administrativos y calle cercana orientativa. Se comprueban geometrías y posiciones, accesos, restricciones, condiciones de pago y duplicados. Sin comprobación presencial; cobertura parcial, incluso en los municipios recorridos sin resultados.

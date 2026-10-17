@@ -214,3 +214,8 @@ El subconjunto identificable `salamanca-official/`, titulado «Selección de res
 ## Onís — 17/10/2026
 
 Una ubicación adicional detrás de la farmacia en Benia de Onís. Coordenada interpretada manualmente sobre ortofoto PNOA IGN (CC BY 4.0 scne.es), https://www.ign.es/wms-inspire/pnoa-ma ; identificación contrastada con la ficha municipal https://www.onisecoturismo.es/aparcamientos-pmr/ . Precisión cartográfica estimada de unos metros, sin medición GPS ni visita. Se publica una descripción propia del hecho y una coordenada derivada de PNOA; no se reproducen fotografías ni textos municipales. Se evita duplicar las dos plazas de Tullidi ya cartografiadas en OpenStreetMap. La plaza del Ayuntamiento sigue pendiente de posición precisa.
+
+
+## Alto Campoo — 17/10/2026
+
+13 plazas individualizadas junto al edificio principal de Brañavieja (Hermandad de Campoo de Suso). Coordenadas interpretadas manualmente sobre ortofoto PNOA IGN (CC BY 4.0 scne.es), https://www.ign.es/wms-inspire/pnoa-ma . Se reconocen 13 símbolos PMR en dos filas de cuatro y nueve plazas, en concordancia con la guía de accesibilidad de Cantabria rural 2024 (COCEMFE Cantabria), https://leader.vallespasiegos.org/wp-content/uploads/2024/12/Espacios-turisticos-de-Cantabria-rural.-Guia-de-accesibilidad_compressed.pdf . Precisión estimada de unos metros, sin visita ni medición GPS. Sin duplicados próximos en el catálogo. Descripciones propias, sin reproducción de fotografías o texto de la guía. Consulta señalización y condiciones de acceso a la estación.

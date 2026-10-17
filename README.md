@@ -71,3 +71,32 @@ Alcobendas: 151 ubicaciones generales (197 plazas), revisión documental 14/10/2
 ## País Vasco y Aragón — 17/10/2026
 
 1.358 ubicaciones explícitas de OpenStreetMap: 1.193 en País Vasco y 165 en Aragón. Extractos de Geofabrik con datos hasta el 16/10/2026: https://download.geofabrik.de/europe/spain/pais-vasco.html y https://download.geofabrik.de/europe/spain/aragon.html . © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . 995 plazas de capacidad conocida y 483 ubicaciones de capacidad desconocida. Se conservaron los inventarios municipales de Donostia y Zaragoza sin añadir puntos OSM de esas ciudades; así se evita reintroducir reservas personales o condicionadas. Se comprobaron 1.013 polígonos, su geometría y la posición interior del marcador, además de accesos, condiciones y duplicados. Municipio por límites administrativos; calle cercana orientativa. Sin comprobación presencial; cobertura parcial.
+
+
+## Extremadura — ampliación OSM del 17/10/2026
+
+41 ubicaciones en 17 municipios, con 42 plazas de capacidad conocida y 8 ubicaciones sin capacidad especificada. Fuente: https://download.geofabrik.de/europe/spain/extremadura.html . Fecha del extracto: 2026-10-16T20:21:21Z. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Se excluyen accesos restringidos, interiores, condiciones dudosas, duplicados y geometrías demasiado grandes; los marcadores de polígonos se sitúan dentro de ellos. Calle cercana orientativa; sin comprobación presencial. València y Sevilla se reservan para sus inventarios municipales. Cobertura parcial.
+
+
+## Comunitat Valenciana — ampliación OSM del 17/10/2026
+
+412 ubicaciones en 57 municipios, con 254 plazas de capacidad conocida y 212 ubicaciones sin capacidad especificada. Fuente: https://download.geofabrik.de/europe/spain/valencia.html . Fecha del extracto: 2026-10-16T20:21:21Z. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Se excluyen accesos restringidos, interiores, condiciones dudosas, duplicados y geometrías demasiado grandes; los marcadores de polígonos se sitúan dentro de ellos. Calle cercana orientativa; sin comprobación presencial. València y Sevilla se reservan para sus inventarios municipales. Cobertura parcial.
+
+
+## Castilla y León — ampliación OSM del 17/10/2026
+
+467 ubicaciones en 42 municipios, con 455 plazas de capacidad conocida y 184 ubicaciones sin capacidad especificada. Fuente: https://download.geofabrik.de/europe/spain/castilla-y-leon.html . Fecha del extracto: 2026-10-16T20:21:21Z. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Se excluyen accesos restringidos, interiores, condiciones dudosas, duplicados y geometrías demasiado grandes; los marcadores de polígonos se sitúan dentro de ellos. Calle cercana orientativa; sin comprobación presencial. València y Sevilla se reservan para sus inventarios municipales. Cobertura parcial.
+
+
+## Andalucía — ampliación OSM del 17/10/2026
+
+461 ubicaciones en 42 municipios, con 251 plazas de capacidad conocida y 272 ubicaciones sin capacidad especificada. Fuente: https://download.geofabrik.de/europe/spain/andalucia.html . Fecha del extracto: 2026-10-16T20:21:21Z. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Se excluyen accesos restringidos, interiores, condiciones dudosas, duplicados y geometrías demasiado grandes; los marcadores de polígonos se sitúan dentro de ellos. Calle cercana orientativa; sin comprobación presencial. València y Sevilla se reservan para sus inventarios municipales. Cobertura parcial.
+
+
+## Cáceres — 17/10/2026
+
+660 ubicaciones del inventario municipal. Fuente: Ayuntamiento de Cáceres, https://ide.caceres.es/geonetwork/srv/spa/catalog.search#/metadata/f9c9c0fa-201e-4cdc-a784-de8a733a1f84 . Metadatos actualizados el 07/05/2025 y servicio consultado el 17/10/2026; no equivalen a una visita. Descarga completa de 755 registros; se excluyen 82 de gestión privada, una reserva personal y 12 con discrepancias entre coordenadas. Se transforman las geometrías nativas EPSG:25829 a WGS84 para evitar el redondeo de la exportación geográfica, y se contrastan con los atributos de coordenadas. Capacidad no especificada por registro. Los metadatos indican que no se aplican condiciones de uso adicionales; el portal https://ide.caceres.es/descargas/movilidad-catalogo atribuye sus contenidos a licencias Creative Commons Reconocimiento 4.0 y 3.0. Se conserva la atribución al Ayuntamiento. No se incluyen matrículas, fotografías ni información personal. Sin comprobación presencial; consulta la señalización.
+
+## Sevilla — 17/10/2026
+
+444 ubicaciones y 465 plazas declaradas. Fuente: Ayuntamiento de Sevilla, Gerencia de Urbanismo, mapa oficial https://www.urbanismosevilla.org/areas/sostenibilidad-innovacion/oficina-de-accesibilidad/plazas-aparcamiento-reservado-pmr . La política municipal de datos espaciales abiertos permite su reutilización: https://www.urbanismosevilla.org/areas/sostenibilidad-innovacion/ide/portal-de-datos-abiertos . Descarga paginada completa de 2.445 registros, contrastada con el contador del servicio e identificadores únicos. Última edición de la capa: 21/04/2023. Selección de viario público sin baja indicada y con evaluación favorable del espacio de transferencia en el inventario. Se excluyen 46 bajas, 388 registros fuera del viario público o con situación desconocida y 1.567 con deficiencias de transferencia o sin evaluación conocida. Adaptación de dirección, punto y capacidad. Evaluación histórica municipal; no es verificación propia ni garantía del estado actual. Sin comprobación presencial; cobertura parcial.

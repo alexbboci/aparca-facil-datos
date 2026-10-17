@@ -119,3 +119,20 @@ Alcobendas: 151 ubicaciones generales (197 plazas), revisión documental 14/10/2
 ## Pamplona / Iruña — 17/10/2026
 
 918 ubicaciones adicionales procedentes del Ayuntamiento de Pamplona / Iruñeko Udala. Catálogo oficial y licencia CC BY 4.0: https://datosabiertos.navarra.es/es/dataset/spapamplona_segu_pto_aparcminus . Licencia: https://creativecommons.org/licenses/by/4.0/ . Inventario actualizado en octubre de 2025 según los metadatos del WFS, consultado el 17/10/2026. Los 998 puntos de la descarga SHP se contrastan con los 998 del WFS; coordenadas nativas EPSG:25830 transformadas a WGS84. Se excluyen 74 coincidencias próximas a ubicaciones existentes, dos duplicados próximos y cuatro puntos fuera del límite municipal consultado. Se conservan los nombres de calle de la fuente; no se inventa la capacidad. No es una comprobación presencial y no indica ocupación. Cobertura parcial; consulta la señalización vigente. Datos adaptados por Aparca Fácil, sin respaldo institucional implícito.
+
+
+## Pequeñas reservas completas PMR — 17/10/2026
+
+29 ubicaciones adicionales con 104 plazas de capacidad declarada: Asturias (9), Cantabria (2), Navarra (3), La Rioja (1), Murcia (7) e Illes Balears (7). Se seleccionan puntos o pequeñas áreas que OpenStreetMap identifica íntegramente como reservadas para PMR; no se utiliza el centro de aparcamientos generales. Geometrías válidas y puntos interiores, máximo 250 m² y control de superficie por plaza. Se comprueban municipio, capacidad, restricciones y duplicados. No son visitas ni garantías de disponibilidad. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright .
+
+- asturias: https://download.geofabrik.de/europe/spain/asturias.html — extracto 2026-10-16T20:21:21Z.
+
+- cantabria: https://download.geofabrik.de/europe/spain/cantabria.html — extracto 2026-10-16T20:21:21Z.
+
+- navarra: https://download.geofabrik.de/europe/spain/navarra.html — extracto 2026-10-16T20:21:21Z.
+
+- la-rioja: https://download.geofabrik.de/europe/spain/la-rioja.html — extracto 2026-10-16T20:21:21Z.
+
+- murcia: https://download.geofabrik.de/europe/spain/murcia.html — extracto 2026-10-16T20:21:21Z.
+
+- islas-baleares: https://download.geofabrik.de/europe/spain/islas-baleares.html — extracto 2026-10-16T20:21:21Z.

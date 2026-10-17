@@ -167,3 +167,12 @@ Dos reservas completas PMR adicionales, una plaza declarada en cada ubicación. 
 ## Reservas completas en la Comunidad de Madrid — 17/10/2026
 
 12 ubicaciones adicionales con 15 plazas declaradas: Valdemoro (7), Collado Villalba (3), Loeches (1) y Majadahonda (1). Fuente: https://download.geofabrik.de/europe/spain/madrid.html — extracto 2026-10-13T20:21:31Z. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Reservas completas PMR de tamaño limitado; posición cartografiada o interior de geometría contrastada. Se excluyen Madrid y Alcobendas para conservar la selección de sus inventarios oficiales. Control de municipio, acceso, capacidad y duplicados. Sin comprobación presencial; consulta la señalización.
+
+
+## Manlleu y Roses — 17/10/2026
+
+Manlleu: 60 ubicaciones adicionales con 68 plazas declaradas. Fuente: Ajuntament de Manlleu / Situam, https://observatori-manlleu-situam.hub.arcgis.com/datasets/4a5d7b0f3d53480595027f6fadfa5d02_0 . Se aplica CC BY 4.0 indicada en el servicio original: https://creativecommons.org/licenses/by/4.0/ . El catálogo agregado AOC etiqueta CC0; conservamos la atribución y la licencia del origen. Se descargan los 75 registros y se contrasta el conjunto completo de identificadores; geometría cotejada con LAT/LONG. Se excluyen 15 referencias a equipamientos y aparcamientos subterráneos para revisar acceso y posición. Última edición de los datos indicada por ArcGIS: 21/07/2023; la fecha más reciente del catálogo no implica revisión de las plazas.
+
+Roses: 154 ubicaciones adicionales, capacidad desconocida. Fuente: Ajuntament de Roses / AOC, https://dadesobertes.seu-e.cat/dataset/roses-reserva-d-estacionament-de-vehicles-per-persones-amb-discapacitat-i-mobilitat-reduida . Licencia CC BY indicada por el catálogo: https://opendefinition.org/licenses/cc-by/ . Recurso actualizado según catálogo el 15/01/2026. De 212 registros se excluyen los 55 que contienen observaciones, incluidas reservas individualizadas, y tres coincidencias con ubicaciones existentes. La ausencia de observaciones no garantiza ausencia de restricciones actuales. No se reproducen matrículas ni datos personales.
+
+Ambos conjuntos: coordenadas contrastadas con límites municipales, control de duplicados y adaptación al esquema de la app. Sin comprobación presencial ni respaldo institucional implícito. Consulta siempre la señalización; cobertura parcial.

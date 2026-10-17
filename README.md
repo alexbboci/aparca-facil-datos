@@ -66,3 +66,8 @@ Alcobendas: 151 ubicaciones generales (197 plazas), revisión documental 14/10/2
 ## Murcia y Baleares — 17/10/2026
 
 274 ubicaciones explícitas de OpenStreetMap: 23 en 7 municipios de Murcia y 251 en 21 municipios de Illes Balears. © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . Extractos de Geofabrik: https://download.geofabrik.de/europe/spain/murcia.html y https://download.geofabrik.de/europe/spain/islas-baleares.html . 118 plazas de capacidad conocida, 186 ubicaciones de capacidad desconocida. Adaptaciones: selección de puntos o polígonos reservados PMR, municipio por límites administrativos y calle cercana orientativa. Se comprueban geometrías y posiciones, accesos, restricciones, condiciones de pago y duplicados. Sin comprobación presencial; cobertura parcial, incluso en los municipios recorridos sin resultados.
+
+
+## País Vasco y Aragón — 17/10/2026
+
+1.358 ubicaciones explícitas de OpenStreetMap: 1.193 en País Vasco y 165 en Aragón. Extractos de Geofabrik con datos hasta el 16/10/2026: https://download.geofabrik.de/europe/spain/pais-vasco.html y https://download.geofabrik.de/europe/spain/aragon.html . © colaboradores de OpenStreetMap, ODbL 1.0: https://www.openstreetmap.org/copyright . 995 plazas de capacidad conocida y 483 ubicaciones de capacidad desconocida. Se conservaron los inventarios municipales de Donostia y Zaragoza sin añadir puntos OSM de esas ciudades; así se evita reintroducir reservas personales o condicionadas. Se comprobaron 1.013 polígonos, su geometría y la posición interior del marcador, además de accesos, condiciones y duplicados. Municipio por límites administrativos; calle cercana orientativa. Sin comprobación presencial; cobertura parcial.

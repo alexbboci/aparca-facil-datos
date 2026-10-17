@@ -219,3 +219,8 @@ Una ubicación adicional detrás de la farmacia en Benia de Onís. Coordenada in
 ## Alto Campoo — 17/10/2026
 
 13 plazas individualizadas junto al edificio principal de Brañavieja (Hermandad de Campoo de Suso). Coordenadas interpretadas manualmente sobre ortofoto PNOA IGN (CC BY 4.0 scne.es), https://www.ign.es/wms-inspire/pnoa-ma . Se reconocen 13 símbolos PMR en dos filas de cuatro y nueve plazas, en concordancia con la guía de accesibilidad de Cantabria rural 2024 (COCEMFE Cantabria), https://leader.vallespasiegos.org/wp-content/uploads/2024/12/Espacios-turisticos-de-Cantabria-rural.-Guia-de-accesibilidad_compressed.pdf . Precisión estimada de unos metros, sin visita ni medición GPS. Sin duplicados próximos en el catálogo. Descripciones propias, sin reproducción de fotografías o texto de la guía. Consulta señalización y condiciones de acceso a la estación.
+
+
+## Polanco — 18/10/2026
+
+Tres plazas PMR individualizadas en la isleta oriental del aparcamiento público de Rinconeda, junto al campo de fútbol. Coordenadas derivadas manualmente de símbolos PMR en ortofoto PNOA IGN (CC BY 4.0 scne.es), https://www.ign.es/wms-inspire/pnoa-ma . Contraste con noticia municipal de apertura de 2020: https://www.aytopolanco.org/2020/04/19/entra-en-servicio-el-nuevo-aparcamiento-publico-de-rinconeda-con-140-plazas/ . Precisión aproximada de unos metros, sin visita presencial ni GPS. Se publican descripciones propias y coordenadas derivadas de PNOA, sin reproducir fotos ni texto municipal. Consulta señalización vigente.
